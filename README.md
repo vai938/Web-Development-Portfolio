@@ -1,77 +1,115 @@
 # 🌐 Web Development Portfolio
 
-A curated collection of web applications, full-stack systems, scientific simulation platforms, and interactive front-end tools. This repository highlights projects developed using modern web technologies, responsive UI design, database architectures, and algorithm visualization.
+A comprehensive showcase of web applications, full-stack systems, interactive visualization tools, and mathematical/scientific simulation platforms. This portfolio highlights expertise across front-end engineering, back-end development, relational database modeling, and interactive graphics.
 
 ---
 
 ## 📑 Table of Contents
 
 - [Featured Projects](#-featured-projects)
-  - [1. Virtual Labs – ANDC (Simulation Platform)](#1-virtual-labs--andc-simulation-platform)
-  - [2. Full-Stack Web Applications](#2-full-stack-web-applications)
-  - [3. Interactive Front-End Tools & Mini-Apps](#3-interactive-front-end-tools--mini-apps)
-  - [4. RESTful APIs & Backend Services](#4-restful-apis--backend-services)
-- [Tech Stack & Tooling](#-tech-stack--tooling)
-- [Repository Structure](#-repository-structure)
-- [Getting Started](#-getting-started)
-- [Author & Connect](#-author--connect)
-- [License](#-license)
+  - [1. 🔬 Virtual Labs – ANDC (Scientific Simulation Platform)](#1--virtual-labs--andc-scientific-simulation-platform)
+  - [2. 🛍️ Super Mall WebApp](#2-️-super-mall-webapp)
+  - [3. 📅 Student-Teacher Appointment Booking System](#3--student-teacher-appointment-booking-system)
+  - [4. 🗺️ Interactive Map Application](#4-️-interactive-map-application)
+  - [5. 🏦 Bankist Login & Banking Dashboard](#5--bankist-login--banking-dashboard)
+  - [6. 🎲 Estimation of $\pi$ using Monte Carlo](#6--estimation-of-pi-using-monte-carlo)
+  - [7. 🔷 3D Icosahedron Geometric Visualizer](#7--3d-icosahedron-geometric-visualizer)
+- [🛠 Tech Stack & Core Competencies](#-tech-stack--core-competencies)
+- [📂 Repository Structure](#-repository-structure)
+- [💻 Getting Started & Local Setup](#-getting-started--local-setup)
+- [👤 Author & Connect](#-author--connect)
+- [📄 License](#-license)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. 🔬 Virtual Labs – ANDC (Simulation Platform)
+### 1. 🔬 Virtual Labs – ANDC (Scientific Simulation Platform)
 - **Repository:** [vai938/Virtual_Labs_ANDC](https://github.com/vai938/Virtual_Labs_ANDC)
 - **Tech Stack:** `HTML5 Canvas`, `JavaScript (ES6+)`, `CSS3`, `Anime.js`
-- **Overview:** A cross-disciplinary, client-side virtual lab suite simulating complex scientific phenomena, computational physics algorithms, and biological procedures.
+- **Overview:** A browser-based virtual laboratory platform enabling students to visualize and experiment with computational physics, numerical analysis algorithms, and biological procedures.
 - **Key Modules:**
-  - **Monte Carlo Simulation:** Interactive $\pi$ calculation using probabilistic random sampling.
-  - **Numerical Root Finding:** Step-by-step visualizers for the **Bisection Method** and **Newton-Raphson Method**.
-  - **DNA Extraction Simulator:** Step-by-step virtual experiment modeling cell lysis, precipitation, and genetic material isolation.
-- **Features:** High-performance canvas rendering, zero external runtime dependencies, and real-time parameter controls.
+  - **Monte Carlo Simulation:** Probabilistic calculation and convergence visualization for estimating $\pi$.
+  - **Numerical Root Finding:** Interactive visualizers for the **Bisection Method** and **Newton-Raphson Method**.
+  - **DNA Extraction:** Virtual laboratory workflow detailing cellular lysis, precipitation, and isolation.
 
 ---
 
-### 2. 💼 Full-Stack Web Applications
-- **Tech Stack:** `Node.js`, `Express.js`, `PostgreSQL`, `HTML5/CSS3`, `REST APIs`
-- **Overview:** End-to-end full-stack applications with robust back-end routing, database modeling, user authentication, and responsive dynamic views.
+### 2. 🛍️ Super Mall WebApp
+- **Repository:** [vai938/super_mall_webapp](https://github.com/vai938/super_mall_webapp)
+- **Tech Stack:** `HTML5`, `CSS3`, `JavaScript (ES6+)`, `Responsive Design`
+- **Overview:** An e-commerce and retail shopping directory web application featuring store listings, product catalog navigation, promotional showcases, and an intuitive user interface.
 - **Key Features:**
-  - Relational database schema design and optimized query execution using PostgreSQL.
-  - Secure CRUD operations, session management, and middleware validation.
-  - Clean separation of concerns following MVC (Model-View-Controller) architecture.
+  - Dynamic store/category filtering and catalog browsing.
+  - Interactive shopping cart and order summary simulation.
+  - Fully responsive grid and flexbox layout optimized across all screen sizes.
 
 ---
 
-### 3. 🎨 Interactive Front-End Tools & Mini-Apps
-- **Tech Stack:** `HTML5`, `CSS3 (Flexbox/Grid)`, `Vanilla JavaScript (DOM API)`
-- **Overview:** Collection of responsive, accessible user interfaces, utility dashboards, and interactive calculators.
+### 3. 📅 Student-Teacher Appointment Booking System
+- **Repository:** [vai938/student_teacher_booking](https://github.com/vai938/student_teacher_booking)
+- **Tech Stack:** `Full-Stack Web Technologies`, `JavaScript / Backend API`, `Relational Database`
+- **Overview:** A web-based scheduling and appointment management portal designed for academic institutions to streamline student-faculty meeting bookings.
 - **Key Features:**
-  - Dynamic client-side state handling and asynchronous data fetching.
-  - Fully responsive layouts tailored for mobile, tablet, and desktop viewports.
-  - UI micro-interactions, animations, and form validation.
+  - Role-based interaction workflows for students and teachers.
+  - Real-time slot availability checking, appointment requests, and approval mechanisms.
+  - Conflict resolution logic preventing overlapping time-slot reservations.
 
 ---
 
-### 4. ⚙️ RESTful APIs & Backend Services
-- **Tech Stack:** `Node.js`, `Express`, `PostgreSQL / SQL`, `Postman`
-- **Overview:** Modular backend micro-services and API endpoints built to serve client applications.
+### 4. 🗺️ Interactive Map Application
+- **Repository:** [vai938/interactive_map](https://github.com/vai938/interactive_map)
+- **Tech Stack:** `JavaScript (ES6+)`, `Mapping APIs (Leaflet / Mapbox / Geolocation API)`, `CSS3`
+- **Overview:** A dynamic mapping web application that visualizes geospatial data, location markers, and custom event pinning based on user interaction or coordinates.
 - **Key Features:**
-  - RESTful routing conventions with JSON responses and structured error handling.
-  - Parameterized database queries preventing SQL injection vulnerabilities.
-  - Comprehensive API endpoint testing and documentation.
+  - Browser Geolocation API integration to detect and pin current user coordinates.
+  - Custom location markers, popups, and route visualization.
+  - Interactive click-to-pin features with local data persistence.
 
 ---
 
-## 🛠 Tech Stack & Tooling
+### 5. 🏦 Bankist Login & Banking Dashboard
+- **Repository:** [vai938/bankist_login_system](https://github.com/vai938/bankist_login_system)
+- **Tech Stack:** `Vanilla JavaScript (ES6+)`, `DOM Manipulation`, `CSS3`
+- **Overview:** A simulated digital banking web application featuring client-side authentication, account balance calculation, real-time transfers, loan requests, and account closure workflows.
+- **Key Features:**
+  - Secure credential verification and automatic user session management.
+  - Dynamic transaction history sorting, date formatting, and real-time interest/balance updates.
+  - Inactivity countdown timers with automatic logout.
 
-| Domain | Technologies & Libraries |
+---
+
+### 6. 🎲 Estimation of $\pi$ using Monte Carlo
+- **Repository:** [vai938/Estimation-of-Pi-using-Monte-Carlo](https://github.com/vai938/Estimation-of-Pi-using-Monte-Carlo)
+- **Tech Stack:** `HTML5 Canvas API`, `JavaScript`, `CSS3`
+- **Overview:** A visual and computational simulator demonstrating the Monte Carlo method to approximate the value of $\pi$ using random point distribution within a unit square and inscribed circle.
+- **Key Features:**
+  - Real-time canvas rendering of randomly scattered points.
+  - Dynamic display of total sample points, inner points, and iterative approximation of $\pi$.
+  - Adjustable batch speeds and sample sizes to demonstrate the Law of Large Numbers.
+
+---
+
+### 7. 🔷 3D Icosahedron Geometric Visualizer
+- **Repository:** [vai938/Icosahedron](https://github.com/vai938/Icosahedron)
+- **Tech Stack:** `HTML5 Canvas / WebGL`, `3D Graphics / JavaScript`, `CSS3`
+- **Overview:** An interactive 3D mathematical visualizer rendering a regular icosahedron (20-faced polyhedron) with dynamic rotation, wireframe toggling, and perspective projections.
+- **Key Features:**
+  - Mathematical 3D-to-2D coordinate transformations and matrix rotations.
+  - Interactive mouse/touch-drag rotation controls with smooth rendering.
+  - Lighting, shading, and wireframe styling options.
+
+---
+
+## 🛠 Tech Stack & Core Competencies
+
+| Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Front-End** | HTML5, CSS3, JavaScript (ES6+), Responsive Web Design, Flexbox, CSS Grid |
-| **Simulations & Graphics** | HTML5 Canvas API, Anime.js, Computational Scripting |
-| **Back-End** | Node.js, Express.js, RESTful Architecture |
-| **Databases** | PostgreSQL, SQL Queries & Relational Data Modeling |
-| **Dev Tools & Environment** | Git, GitHub, Linux, Visual Studio Code |
+| **Front-End Development** | HTML5, CSS3, JavaScript (ES6+), Responsive Design (Flexbox, CSS Grid) |
+| **Graphics & Simulations** | HTML5 Canvas API, WebGL, Anime.js, 3D Geometry Math |
+| **Back-End & Databases** | Node.js, Express.js, PostgreSQL, SQL, RESTful API Architecture |
+| **Mapping & Web APIs** | Geolocation API, Leaflet / Mapbox, DOM Manipulation API |
+| **Dev Tools & Workflow** | Git, GitHub, Linux, Visual Studio Code |
 
 ---
 
@@ -80,10 +118,13 @@ A curated collection of web applications, full-stack systems, scientific simulat
 ```plaintext
 Web-Development-Portfolio/
 │
-├── 01-Virtual-Labs/             # Simulation algorithms & interactive canvas labs
-├── 02-Full-Stack-Apps/          # End-to-end applications (Node/Express/PostgreSQL)
-├── 03-Frontend-Projects/        # UI components, dashboards, and client-side utilities
-├── 04-Backend-APIs/             # Server endpoints, routing logic, and database schemas
+├── 01-Virtual-Labs/                 # Virtual laboratory & computational simulations
+├── 02-Super-Mall/                   # E-commerce web application
+├── 03-Student-Teacher-Booking/      # Appointment booking & scheduling system
+├── 04-Interactive-Map/              # Geolocation & interactive mapping web app
+├── 05-Bankist-App/                  # Digital banking UI & state management
+├── 06-Monte-Carlo-Pi/               # Monte Carlo simulation visualizer
+├── 07-Icosahedron-3D/               # 3D polyhedral geometric rendering
 │
-├── assets/                      # Project previews, screenshots, and diagrams
-└── README.md                    # Portfolio index and documentation
+├── assets/                          # Screenshots, icons, and diagrams
+└── README.md                        # Portfolio master documentation
