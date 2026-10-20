@@ -26,6 +26,7 @@ A comprehensive showcase of web applications, full-stack systems, interactive vi
 
 ### 1. 🔬 Virtual Labs – ANDC (Scientific Simulation Platform)
 - **Repository:** [vai938/Virtual_Labs_ANDC](https://github.com/vai938/Virtual_Labs_ANDC)
+- **Website:**[https://vai938.github.io/Virtual_Labs_ANDC/](https://vai938.github.io/Virtual_Labs_ANDC/)
 - **Tech Stack:** `HTML5 Canvas`, `JavaScript (ES6+)`, `CSS3`, `Anime.js`
 - **Overview:** A browser-based virtual laboratory platform enabling students to visualize and experiment with computational physics, numerical analysis algorithms, and biological procedures.
 - **Key Modules:**
