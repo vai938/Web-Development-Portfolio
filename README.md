@@ -49,6 +49,7 @@ A comprehensive showcase of web applications, full-stack systems, interactive vi
 
 ### 3. 📅 Student-Teacher Appointment Booking System
 - **Repository:** [vai938/student_teacher_booking](https://github.com/vai938/student_teacher_booking)
+- **Website:** [https://student-teacher-booking-pi.vercel.app/](https://student-teacher-booking-pi.vercel.app/)
 - **Tech Stack:** `Full-Stack Web Technologies`, `JavaScript / Backend API`, `Relational Database`
 - **Overview:** A web-based scheduling and appointment management portal designed for academic institutions to streamline student-faculty meeting bookings.
 - **Key Features:**
