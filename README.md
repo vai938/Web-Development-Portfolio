@@ -38,6 +38,7 @@ A comprehensive showcase of web applications, full-stack systems, interactive vi
 
 ### 2. 🛍️ Super Mall WebApp
 - **Repository:** [vai938/super_mall_webapp](https://github.com/vai938/super_mall_webapp)
+- **Website: **[https://super-mall-webapp.vercel.app/](https://super-mall-webapp.vercel.app/)
 - **Tech Stack:** `HTML5`, `CSS3`, `JavaScript (ES6+)`, `Responsive Design`
 - **Overview:** An e-commerce and retail shopping directory web application featuring store listings, product catalog navigation, promotional showcases, and an intuitive user interface.
 - **Key Features:**
