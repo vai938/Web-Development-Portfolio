@@ -86,6 +86,7 @@ A comprehensive showcase of web applications, full-stack systems, interactive vi
 
 ### 6. 🎲 Estimation of $\pi$ using Monte Carlo
 - **Repository:** [vai938/Estimation-of-Pi-using-Monte-Carlo](https://github.com/vai938/Estimation-of-Pi-using-Monte-Carlo)
+- **Website**: [montecarlo3d.vercel.app](montecarlo3d.vercel.app)
 - **Tech Stack:** `HTML5 Canvas API`, `JavaScript`, `CSS3`
 - **Overview:** A visual and computational simulator demonstrating the Monte Carlo method to approximate the value of $\pi$ using random point distribution within a unit square and inscribed circle.
 - **Key Features:**
