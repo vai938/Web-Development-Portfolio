@@ -62,6 +62,7 @@ A comprehensive showcase of web applications, full-stack systems, interactive vi
 
 ### 4. 🗺️ Interactive Map Application
 - **Repository:** [vai938/interactive_map](https://github.com/vai938/interactive_map)
+- **Website:** [interactive-map-xi-three.vercel.app](interactive-map-xi-three.vercel.app)
 - **Tech Stack:** `JavaScript (ES6+)`, `Mapping APIs (Leaflet / Mapbox / Geolocation API)`, `CSS3`
 - **Overview:** A dynamic mapping web application that visualizes geospatial data, location markers, and custom event pinning based on user interaction or coordinates.
 - **Key Features:**
