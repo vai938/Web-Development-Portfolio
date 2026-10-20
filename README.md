@@ -96,6 +96,7 @@ A comprehensive showcase of web applications, full-stack systems, interactive vi
 
 ### 7. 🔷 3D Icosahedron Geometric Visualizer
 - **Repository:** [vai938/Icosahedron](https://github.com/vai938/Icosahedron)
+- **Website**: [https://vai938.github.io/Icosahedron/](https://vai938.github.io/Icosahedron/)
 - **Tech Stack:** `HTML5 Canvas / WebGL`, `3D Graphics / JavaScript`, `CSS3`
 - **Overview:** An interactive 3D mathematical visualizer rendering a regular icosahedron (20-faced polyhedron) with dynamic rotation, wireframe toggling, and perspective projections.
 - **Key Features:**
